@@ -5,7 +5,7 @@ import Qualities from '../components/Qualities'
 import Menu from '../components/Menu'
 import WhoAreWe from '../components/WhoAreWe'
 import Team from '../components/Team'
-import Reservation from '../components/reservation'
+import Reservation from '../components/Reservation'
 import Footer from '../components/Footer'
 
 
