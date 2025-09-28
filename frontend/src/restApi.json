@@ -1,0 +1,152 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "LUXURY ROOMS",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "GOOD SERVICES",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./swiim.jpg",
+                "title": "BIG SWIMING POOL",
+                "category": "Swim"
+            },
+            {
+                "id": 2,
+                "image": "./bath.jpg",
+                "title": "LUXURY BATHROOM",
+                "category": "Bath"
+            },
+            {
+                "id": 3,
+                "image": "./bed.jpg",
+                "title": "GOOD MATRESS",
+                "category": "Sleep"
+            },
+            {
+                "id": 4,
+                "image": "./food.jpg",
+                "title": "DIFFERENT FOOD IN ONE ROOF",
+                "category": "Eat"
+            },
+            {
+                "id": 5,
+                "image": "./dance.jpg",
+                "title": "DANCE NIGHT",
+                "category": "Dance"
+            },
+            {
+                "id": 6,
+                "image": "./PA.jpg",
+                "title": "PLAY AREA FOR ADULT",
+                "category": "Play"
+            },
+            {
+                "id": 7,
+                "image": "./PB.jpg",
+                "title": "PLAY AREA FOR YOUR KIDS",
+                "category": "Kids"
+            },
+            {
+                "id": 8,
+                "image": "./sw.jpg",
+                "title": "TAKE REST FROM YOUR WORK",
+                "category": "Rest"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./TM.jpg",
+                "name": "Samitha Sen",
+                "designation": "Founder"
+            },
+            {
+                "id": 2,
+                "image": "./TM@.jpg",
+                "name": "Tanaya Bagade",
+                "designation": "Manager"
+            },
+            {
+                "id": 3,
+                "image": "./TM3.png",
+                "name": "Aishwarya C.",
+                "designation": "Accountant"
+            },
+            {
+                "id": 4,
+                "image": "./TM4.jpg",
+                "name": "Manasi K.",
+                "designation": "Senior Chef"
+            }
+        ],
+     
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "06",
+                "title": "Hotels"
+            },
+            {
+                "id": 2,
+                "number": "05",
+                "title": "branch manager"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "20",
+                "title": "Rooms in Lonavala"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "WHO WE ARE",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "WE SERVES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "WE",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RSERVE YOUR ROOM",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
