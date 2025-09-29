@@ -5,8 +5,10 @@ import { useState } from "react";
 import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
 
+
+
 const Reservation = () => {
-  const API_BASE = import.meta.env.REACT_APP_API_URL;
+  const API_BASE = import.meta.env.VITE_API_URL;
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
