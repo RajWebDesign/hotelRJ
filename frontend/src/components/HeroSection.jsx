@@ -18,7 +18,7 @@ const HeroSection = () => {
             <div className="textAndLogo">
               <div className="textWithSvg">
                 <h1 className="title">Steady</h1>
-                <h1 className="title dishes_title"> Dishes</h1>
+                <h1 className="title dishes_title"> Happy</h1>
                 <img src="/threelines.svg " alt="three" />
 
               </div>
