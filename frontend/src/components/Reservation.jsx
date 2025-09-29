@@ -21,7 +21,7 @@ const Reservation = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        `${API_BASE}/reservation/send`,
+        `${API_BASE}/api/v1/reservation/send`,
        
         { firstName, lastName, email, phone, date, time },
         {
