@@ -9,7 +9,7 @@ const app = express();
 dotenv.config({ path: "./config/config.env" });
 
 app.use(cors({
- origin: "hotelrsj-cso960thz-rajnandinis-projects-9e0efaf8.vercel.app",
+ origin: "https://hotel-rj-2ock.vercel.app/",
   methods: ["POST"],
   credentials: true,
   
